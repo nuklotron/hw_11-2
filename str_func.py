@@ -1,3 +1,3 @@
 def str_func(text):
-    """docsting for this func"""
+    """docstring for str_func"""
     return text.upper
